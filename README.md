@@ -6,9 +6,11 @@ https://www.okeyproxy.com/en/residential-proxies
 Step 1 Installing Wingate Proxy Server
 After downloading the latest package of WinGate Proxy Server, double-click its ‘.exe’ package to start the installation setup wizard of WinGate proxy server. After that, you will be greeted by its welcome page to get started with the installation on your devices. Click on the “Next” button to continue.
 ![image](https://github.com/OkeyProxyCom/Socks5-Proxy-List-Wingate.me/assets/150340973/2c05d5b9-b2bb-4e01-b317-2a87159ba307)
+
 Step 2 License Agreement
 You need to read and accept the license agreement before the installation and use of Wingate by choosing the right option as shown.
 ![image](https://github.com/OkeyProxyCom/Socks5-Proxy-List-Wingate.me/assets/150340973/54c119fa-751a-4195-8148-1a609d930abd)
+
 Step 3 Installation Folder
 Choose the location on your system, where you like to place the WinGate installation setup.
 ![image](https://github.com/OkeyProxyCom/Socks5-Proxy-List-Wingate.me/assets/150340973/fcd67fb1-9180-4966-898b-c54a353cc2dc)
