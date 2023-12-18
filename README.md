@@ -11,4 +11,5 @@ You need to read and accept the license agreement before the installation and us
 Step 3 Installation Folder
 Choose the location on your system, where you like to place the WinGate installation setup.
 ![image](https://github.com/OkeyProxyCom/Socks5-Proxy-List-Wingate.me/assets/150340973/fcd67fb1-9180-4966-898b-c54a353cc2dc)
+
 The article is from https://www.okeyproxy.com/proxy/how-to-set-up-socks5-proxy-list-wingate-me-in-2023/
